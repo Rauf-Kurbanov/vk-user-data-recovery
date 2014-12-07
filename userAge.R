@@ -1,3 +1,4 @@
+## Shameful copy/paste
 age_calc <- function(dob, enddate=Sys.Date(), units='months'){
   if (!inherits(dob, "Date") | !inherits(enddate, "Date"))
     stop("Both dob and enddate must be Date class objects")
@@ -21,7 +22,6 @@ age_calc <- function(dob, enddate=Sys.Date(), units='months'){
 }
 
 ageById <- function (id) {
-#  id <- as.character(id)
   if (is.null(userInfo[[id]]$bdate)) {
     NA
   } else {
