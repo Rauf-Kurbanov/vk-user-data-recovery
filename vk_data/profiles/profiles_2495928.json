@@ -1,0 +1,1329 @@
+[
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Алёна", 
+  "last_name": "Зубарева", 
+  "screen_name": "id1638784", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 1, 
+  "bdate": "20.11.1990", 
+  "hidden": 1, 
+  "nickname": "", 
+  "id": 1638784, 
+  "last_seen": {
+   "platform": 1, 
+   "time": 1418555372
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Анютка", 
+  "last_name": "Степанова", 
+  "screen_name": "nuffka", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 1, 
+  "bdate": "23.4.1991", 
+  "hidden": 1, 
+  "nickname": "Nuffka", 
+  "id": 336898, 
+  "last_seen": {
+   "platform": 4, 
+   "time": 1418553382
+  }
+ }, 
+ {
+  "deactivated": "banned", 
+  "first_name": "Ник", 
+  "last_name": "Смородин", 
+  "id": 539396, 
+  "sex": 1
+ }, 
+ {
+  "first_name": "Spy", 
+  "last_name": "Spy", 
+  "screen_name": "id2701701", 
+  "sex": 2, 
+  "nickname": "", 
+  "id": 2701701, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1333220846
+  }
+ }, 
+ {
+  "last_name": "Lacoste-Ракфорчик", 
+  "university_name": "videregående skole", 
+  "sex": 2, 
+  "books": "детективы", 
+  "relation": 6, 
+  "id": 1225993, 
+  "home_town": "Ленинград", 
+  "universities": [
+   {
+    "city": 0, 
+    "name": "videregående skole", 
+    "country": 144, 
+    "education_form": "Дневное отделение", 
+    "graduation": 2008, 
+    "education_status": "Доктор наук", 
+    "faculty_name": "", 
+    "faculty": 343654, 
+    "id": 188356
+   }
+  ], 
+  "first_name": "Димитри-Кратас-Биркеланд-Шапкин", 
+  "education_form": "Дневное отделение", 
+  "relatives": [], 
+  "faculty_name": "", 
+  "occupation": {
+   "type": "work", 
+   "name": "olije platform"
+  }, 
+  "interests": "СПОРТ: БОЛьШОЙ ТЕНИС.ТРЕНАЖEРНЫЙ ЗАЛ, ГОРНЫЕ ЛЫЖИ., ДРУГОЕ: МУЗЫКА, РЫБАЛКА, ЕЩЁ ОЧЕНь УВЛEКАЮСь ПСИХОЛОГИЕЙ ЖИЗНИ (И ИХ ПРОБЛЕМАМИ), бои без правил(бойцовский клуб), футбольные хулиганы(махычи) (ТОЛьКО (бог футболаРОНАЛьДИНьЮ)-БАРСЕЛОНА и ТОЛьКО ЗЕНИТ)", 
+  "faculty": 343654, 
+  "schools": [
+   {
+    "city": 2, 
+    "speciality": "LACOSTE", 
+    "country": 1, 
+    "id": "19861", 
+    "type_str": "Лицей", 
+    "type": 2, 
+    "class": "г", 
+    "name": "№ 554"
+   }, 
+   {
+    "city": 10258, 
+    "name": "videregående skole", 
+    "country": 144, 
+    "year_graduated": 2008, 
+    "class": "", 
+    "year_to": 2008, 
+    "id": "467822"
+   }
+  ], 
+  "education_status": "Доктор наук", 
+  "nickname": "", 
+  "bdate": "31.12", 
+  "screen_name": "id1225993", 
+  "country": {
+   "id": 144, 
+   "title": "Норвегия"
+  }, 
+  "university": 188356, 
+  "graduation": 2008, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1234398339
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Оля-Ля", 
+  "last_name": "Портнова", 
+  "screen_name": "id2302605", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 1, 
+  "bdate": "14.3.1991", 
+  "nickname": "", 
+  "id": 2302605, 
+  "last_seen": {
+   "platform": 5, 
+   "time": 1418555863
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Александр", 
+  "last_name": "Лапин", 
+  "screen_name": "alex_kulta", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "twitter": "alex_kulta", 
+  "facebook_name": "Александр Лапин", 
+  "sex": 2, 
+  "bdate": "8.4.1991", 
+  "facebook": "100001588387785", 
+  "last_seen": {
+   "platform": 2, 
+   "time": 1418550028
+  }, 
+  "nickname": "", 
+  "id": 813199, 
+  "instagram": "alex_kulta"
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Mary", 
+  "last_name": "Enn", 
+  "screen_name": "id257554", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 1, 
+  "bdate": "22.1.1991", 
+  "nickname": "ιιlllιl", 
+  "id": 257554, 
+  "last_seen": {
+   "platform": 2, 
+   "time": 1418556726
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Дмитриус", 
+  "last_name": "Тульев", 
+  "screen_name": "tuliev", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 2, 
+  "bdate": "23.8.1991", 
+  "hidden": 1, 
+  "nickname": "", 
+  "id": 2193172, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1418558212
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Евгений", 
+  "last_name": "Рыжов", 
+  "screen_name": "dentalman", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 2, 
+  "bdate": "20.12.1990", 
+  "hidden": 1, 
+  "nickname": "", 
+  "id": 2160644, 
+  "last_seen": {
+   "platform": 2, 
+   "time": 1418554827
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Elena", 
+  "last_name": "Pustynskaya", 
+  "screen_name": "id.pustynskaya", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 2, 
+  "bdate": "22.5.1991", 
+  "hidden": 1, 
+  "nickname": "", 
+  "id": 1587100, 
+  "last_seen": {
+   "platform": 1, 
+   "time": 1418557374
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Алексей", 
+  "last_name": "Брянцев", 
+  "screen_name": "dirtylsd", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 2, 
+  "bdate": "7.10", 
+  "hidden": 1, 
+  "nickname": "", 
+  "id": 2289181, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1418555498
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Елизавета", 
+  "last_name": "Михайлова", 
+  "screen_name": "elmikhailova", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 1, 
+  "bdate": "18.4.1992", 
+  "hidden": 1, 
+  "nickname": "", 
+  "id": 1889605, 
+  "last_seen": {
+   "platform": 2, 
+   "time": 1418553569
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Никита", 
+  "last_name": "Мурахин", 
+  "screen_name": "murakhin", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 2, 
+  "bdate": "3.3.1991", 
+  "nickname": "", 
+  "id": 2286113, 
+  "last_seen": {
+   "platform": 1, 
+   "time": 1418553571
+  }
+ }, 
+ {
+  "last_name": "Алекс", 
+  "university_name": "СПИГ", 
+  "sex": 2, 
+  "books": "", 
+  "relation": 6, 
+  "id": 570403, 
+  "home_town": "spb", 
+  "universities": [
+   {
+    "country": 1, 
+    "id": 71, 
+    "name": "СПИГ", 
+    "city": 0
+   }
+  ], 
+  "first_name": "Дмитрий", 
+  "relatives": [], 
+  "faculty_name": "", 
+  "occupation": {
+   "type": "university", 
+   "id": 71, 
+   "name": "СПИГ"
+  }, 
+  "interests": "", 
+  "faculty": 0, 
+  "schools": [
+   {
+    "city": 2, 
+    "name": "№ 554", 
+    "country": 1, 
+    "year_from": 2002, 
+    "year_graduated": 2008, 
+    "class": "", 
+    "type_str": "Лицей", 
+    "year_to": 2008, 
+    "type": 2, 
+    "id": "19861"
+   }
+  ], 
+  "nickname": "", 
+  "bdate": "4.6.1990", 
+  "screen_name": "id570403", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "university": 71, 
+  "graduation": 0, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1350458947
+  }
+ }, 
+ {
+  "first_name": "Стас", 
+  "last_name": "Mrzv", 
+  "screen_name": "stasmrzv", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 2, 
+  "bdate": "3.9", 
+  "hidden": 1, 
+  "nickname": "", 
+  "id": 282663, 
+  "last_seen": {
+   "platform": 4, 
+   "time": 1418536011
+  }
+ }, 
+ {
+  "university_name": "", 
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Stay", 
+  "last_name": "Away", 
+  "screen_name": "id2495928", 
+  "interests": "спросите любопытную Варвару", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "university": 0, 
+  "universities": [], 
+  "graduation": 0, 
+  "sex": 2, 
+  "relatives": [], 
+  "books": "спросите человека с птичьим пометом на голове", 
+  "relation": 0, 
+  "home_town": "спросите пустозвонов", 
+  "faculty_name": "", 
+  "faculty": 0, 
+  "schools": [], 
+  "nickname": "", 
+  "id": 2495928, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1204209002
+  }
+ }, 
+ {
+  "first_name": "Снег", 
+  "last_name": "Падает", 
+  "screen_name": "id1955630", 
+  "sex": 2, 
+  "hidden": 1, 
+  "nickname": "", 
+  "id": 1955630, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1379560419
+  }
+ }, 
+ {
+  "first_name": "Евгений", 
+  "last_name": "Костерной", 
+  "screen_name": "id478383", 
+  "sex": 2, 
+  "hidden": 1, 
+  "nickname": "", 
+  "id": 478383, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1418520554
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Polina", 
+  "last_name": "Glebova", 
+  "screen_name": "polina_glebova", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 1, 
+  "bdate": "14.6", 
+  "nickname": "", 
+  "id": 2642139, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1418557223
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Хрюша", 
+  "last_name": "Ананюшка", 
+  "screen_name": "id3009720", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 2, 
+  "nickname": "*ПиДоВкА*", 
+  "id": 3009720, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1289581141
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Елена", 
+  "last_name": "Владимировна", 
+  "screen_name": "id_elenavladimirovna", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 1, 
+  "bdate": "31.3", 
+  "hidden": 1, 
+  "nickname": "", 
+  "id": 351676, 
+  "last_seen": {
+   "platform": 4, 
+   "time": 1417900254
+  }
+ }, 
+ {
+  "last_name": "Факс", 
+  "university_name": "ИБП (права)", 
+  "sex": 1, 
+  "books": "Michael Jackson Жизнь Короля, ГРАФ МОНТЕ-КРИСТО, Преступление и наказание, Я МОИ ДРУЗЬЯ И ГЕРОИН, Суад Сожженная заживо...", 
+  "relation": 1, 
+  "skype": "///", 
+  "id": 1055297, 
+  "home_town": "Санкт-Петербург", 
+  "universities": [
+   {
+    "city": 2, 
+    "name": "ИБП (права)", 
+    "country": 1, 
+    "education_form": "Заочное отделение", 
+    "graduation": 2013, 
+    "chair_name": "Менеджмента", 
+    "faculty_name": "Менеджмент", 
+    "faculty": 4431, 
+    "chair": 17545, 
+    "education_status": "Студентка (специалист)", 
+    "id": 18
+   }
+  ], 
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Татьяна", 
+  "education_form": "Заочное отделение", 
+  "relatives": [
+   {
+    "type": "sibling", 
+    "id": 1051576
+   }, 
+   {
+    "type": "sibling", 
+    "id": 80000323
+   }, 
+   {
+    "type": "sibling", 
+    "id": 3027911
+   }, 
+   {
+    "type": "sibling", 
+    "id": 64448042
+   }, 
+   {
+    "type": "sibling", 
+    "id": 146837049
+   }, 
+   {
+    "type": "sibling", 
+    "id": 47836990
+   }
+  ], 
+  "faculty_name": "Менеджмент", 
+  "occupation": {
+   "type": "university", 
+   "id": 18, 
+   "name": "ИБП (права)"
+  }, 
+  "interests": "//", 
+  "faculty": 4431, 
+  "schools": [
+   {
+    "city": 2, 
+    "name": "№ 554", 
+    "country": 1, 
+    "year_from": 1998, 
+    "year_graduated": 2008, 
+    "class": "г", 
+    "type_str": "Лицей", 
+    "year_to": 2008, 
+    "type": 2, 
+    "id": "19861", 
+    "speciality": "Биолого-Географический  =0)>"
+   }
+  ], 
+  "education_status": "Студентка (специалист)", 
+  "nickname": "", 
+  "bdate": "10.1.1992", 
+  "screen_name": "tat1001", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "university": 18, 
+  "graduation": 2013, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1418513634
+  }
+ }, 
+ {
+  "city": {
+   "id": 1937764, 
+   "title": "Paris"
+  }, 
+  "first_name": "Lotus", 
+  "last_name": "Eater", 
+  "screen_name": "lotuseater", 
+  "country": {
+   "id": 209, 
+   "title": "Франция"
+  }, 
+  "sex": 1, 
+  "bdate": "26.3.1988", 
+  "hidden": 1, 
+  "nickname": "", 
+  "id": 13914, 
+  "last_seen": {
+   "platform": 4, 
+   "time": 1418503006
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Настя", 
+  "last_name": "Настя", 
+  "screen_name": "id2434373", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 1, 
+  "nickname": "", 
+  "id": 2434373, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1338199109
+  }
+ }, 
+ {
+  "last_name": "Волков", 
+  "university_name": "МИЭП при МПА ЕврАзЭС", 
+  "sex": 2, 
+  "books": "Терри Гудкаинт серия книг \"Мечь Истины\"", 
+  "relation": 0, 
+  "skype": "extrem-line", 
+  "id": 614471, 
+  "home_town": "Санкт-Петербург", 
+  "universities": [
+   {
+    "city": 2, 
+    "name": "МИЭП при МПА ЕврАзЭС", 
+    "country": 1, 
+    "education_form": "Вечернее отделение", 
+    "graduation": 2015, 
+    "chair_name": "Дизайна и декоративно-прикладного искусства", 
+    "faculty_name": "Дизайна и прикладного искусства", 
+    "faculty": 2149783, 
+    "chair": 823635, 
+    "education_status": "Студент (бакалавр)", 
+    "id": 2427
+   }
+  ], 
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Михаил", 
+  "education_form": "Вечернее отделение", 
+  "relatives": [
+   {
+    "type": "parent", 
+    "id": 3134243
+   }, 
+   {
+    "type": "parent", 
+    "id": 36620990
+   }, 
+   {
+    "type": "sibling", 
+    "id": 76059145
+   }, 
+   {
+    "type": "sibling", 
+    "id": 21044098
+   }, 
+   {
+    "type": "sibling", 
+    "id": 51446269
+   }
+  ], 
+  "faculty_name": "Дизайна и прикладного искусства", 
+  "occupation": {
+   "type": "university", 
+   "id": 2427, 
+   "name": "МИЭП при МПА ЕврАзЭС"
+  }, 
+  "interests": "Компьютеры, музыка, Photoshop, видеомонтаж, танцы, аниме, живопись, фото-дизайн и.т.д", 
+  "faculty": 2149783, 
+  "schools": [
+   {
+    "city": 2, 
+    "name": "Электромеханический железнодорожного транспорта (СПб ЭМТЖТ, бывш. ПЛЖТ, СПТУ 34)", 
+    "country": 1, 
+    "year_from": 2006, 
+    "year_graduated": 2010, 
+    "class": "", 
+    "type_str": "Проф. лицей", 
+    "type": 9, 
+    "id": "7929", 
+    "speciality": "помощник машиниста"
+   }, 
+   {
+    "city": 2, 
+    "name": "№ 18", 
+    "country": 1, 
+    "year_from": 1998, 
+    "year_graduated": 2006, 
+    "class": "", 
+    "type_str": "Музыкальная школа", 
+    "year_to": 2006, 
+    "type": 5, 
+    "id": "4904"
+   }, 
+   {
+    "city": 2, 
+    "name": "№ 554", 
+    "country": 1, 
+    "year_from": 1998, 
+    "year_graduated": 2008, 
+    "class": "г", 
+    "type_str": "Лицей", 
+    "year_to": 2006, 
+    "type": 2, 
+    "id": "19861", 
+    "speciality": "Эко-Гео"
+   }
+  ], 
+  "education_status": "Студент (бакалавр)", 
+  "nickname": "", 
+  "bdate": "28.5.1992", 
+  "screen_name": "positive_angel", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "university": 2427, 
+  "graduation": 2015, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1418556808
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Виктор", 
+  "last_name": "Корнев", 
+  "screen_name": "zorgerus", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 2, 
+  "bdate": "10.7", 
+  "hidden": 1, 
+  "nickname": "[►]", 
+  "id": 676042, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1416591522
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Лёва", 
+  "last_name": "Кожин", 
+  "screen_name": "kamelot180", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 2, 
+  "bdate": "29.1", 
+  "hidden": 1, 
+  "nickname": "Юрьевич", 
+  "id": 2790917, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1409261956
+  }
+ }, 
+ {
+  "last_name": "Депп", 
+  "university_name": "", 
+  "sex": 2, 
+  "books": "///", 
+  "relation": 4, 
+  "id": 3071437, 
+  "home_town": "Оуэнсборо", 
+  "universities": [
+   {
+    "city": 22042, 
+    "name": "Art & life", 
+    "country": 9, 
+    "education_form": "Дневное отделение", 
+    "chair_name": "qwertyu", 
+    "faculty_name": "", 
+    "faculty": 152443, 
+    "chair": 162266, 
+    "education_status": "Доктор наук", 
+    "id": 44207
+   }
+  ], 
+  "city": {
+   "id": 22042, 
+   "title": ""
+  }, 
+  "first_name": "Джонни", 
+  "education_form": "Дневное отделение", 
+  "relatives": [], 
+  "faculty_name": "", 
+  "occupation": {
+   "type": "university", 
+   "id": 44207, 
+   "name": "не указан"
+  }, 
+  "interests": "кино", 
+  "faculty": 152443, 
+  "schools": [
+   {
+    "city": 22042, 
+    "name": "Bishop High School", 
+    "country": 9, 
+    "year_from": 1970, 
+    "class": "", 
+    "year_to": 1981, 
+    "id": "77653"
+   }
+  ], 
+  "education_status": "Доктор наук", 
+  "nickname": "", 
+  "bdate": "9.6.1963", 
+  "screen_name": "id3071437", 
+  "country": {
+   "id": 9, 
+   "title": "США"
+  }, 
+  "university": 44207, 
+  "graduation": 0, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1226328798
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Valeria", 
+  "last_name": "Semernina", 
+  "screen_name": "lera.semernina", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 1, 
+  "bdate": "3.4", 
+  "nickname": "", 
+  "id": 3365071, 
+  "last_seen": {
+   "platform": 2, 
+   "time": 1418553077
+  }
+ }, 
+ {
+  "deactivated": "deleted", 
+  "first_name": "Оля", 
+  "last_name": "Не-Оля", 
+  "id": 212304, 
+  "sex": 1
+ }, 
+ {
+  "last_name": "Паникер", 
+  "university_name": "ИМИР", 
+  "sex": 1, 
+  "books": "Любимые книги", 
+  "relation": 4, 
+  "id": 6893777, 
+  "home_town": "Пердь Великая Непоколебимая", 
+  "universities": [
+   {
+    "city": 49, 
+    "name": "ИМИР", 
+    "country": 1, 
+    "faculty_name": "Экономики и управления", 
+    "faculty": 201177, 
+    "id": 2867
+   }
+  ], 
+  "city": {
+   "id": 49, 
+   "title": "Екатеринбург"
+  }, 
+  "first_name": "Мертвый", 
+  "relatives": [], 
+  "faculty_name": "Экономики и управления", 
+  "occupation": {
+   "type": "university", 
+   "id": 2867, 
+   "name": "ИМИР"
+  }, 
+  "interests": "Интересы", 
+  "faculty": 201177, 
+  "schools": [
+   {
+    "country": 1, 
+    "class": "", 
+    "id": "68993", 
+    "name": "№ 1", 
+    "city": 49
+   }
+  ], 
+  "nickname": "", 
+  "bdate": "28.5.1971", 
+  "screen_name": "id6893777", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "university": 2867, 
+  "graduation": 0, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1329135976
+  }
+ }, 
+ {
+  "first_name": "Како", 
+  "last_name": "Маг", 
+  "screen_name": "id4871891", 
+  "sex": 2, 
+  "hidden": 1, 
+  "nickname": "", 
+  "id": 4871891, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1417034800
+  }
+ }, 
+ {
+  "city": {
+   "id": 4132567, 
+   "title": "Port-Gentil"
+  }, 
+  "first_name": "Otstante", 
+  "last_name": "Naprimer", 
+  "screen_name": "id597589", 
+  "country": {
+   "id": 56, 
+   "title": "Габон"
+  }, 
+  "sex": 2, 
+  "hidden": 1, 
+  "nickname": "", 
+  "id": 597589, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1415262128
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Марина", 
+  "last_name": "Котова", 
+  "screen_name": "id1182807", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 1, 
+  "bdate": "8.3.1990", 
+  "nickname": "", 
+  "id": 1182807, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1233322986
+  }
+ }, 
+ {
+  "first_name": "Константин", 
+  "last_name": "Николаев", 
+  "screen_name": "id635471", 
+  "sex": 2, 
+  "hidden": 1, 
+  "nickname": "", 
+  "id": 635471, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1418477652
+  }
+ }, 
+ {
+  "last_name": "Владиславович", 
+  "university_name": "СПбПУ (Политех)", 
+  "sex": 2, 
+  "books": "", 
+  "relation": 0, 
+  "id": 4911835, 
+  "home_town": "Санкт-Петербург", 
+  "universities": [
+   {
+    "city": 2, 
+    "name": "СПбПУ (Политех)", 
+    "country": 1, 
+    "education_form": "Дневное отделение", 
+    "graduation": 2013, 
+    "chair_name": "Технология машиностроения", 
+    "faculty_name": "Институт металлургии, машиностроения и транспорта", 
+    "faculty": 2157468, 
+    "chair": 1839793, 
+    "id": 56
+   }
+  ], 
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Дмитрий", 
+  "education_form": "Дневное отделение", 
+  "relatives": [
+   {
+    "type": "sibling", 
+    "id": 52516014
+   }, 
+   {
+    "type": "sibling", 
+    "id": 38862001
+   }, 
+   {
+    "type": "sibling", 
+    "id": 1790048
+   }, 
+   {
+    "type": "sibling", 
+    "id": 2552740
+   }, 
+   {
+    "type": "sibling", 
+    "id": 147199991
+   }
+  ], 
+  "faculty_name": "Институт металлургии, машиностроения и транспорта", 
+  "occupation": {
+   "type": "university", 
+   "id": 56, 
+   "name": "СПбПУ (Политех)"
+  }, 
+  "interests": "", 
+  "faculty": 2157468, 
+  "schools": [
+   {
+    "city": 2, 
+    "name": "№ 554", 
+    "country": 1, 
+    "year_from": 2001, 
+    "class": "", 
+    "type_str": "Лицей", 
+    "year_to": 2008, 
+    "type": 2, 
+    "id": "19861"
+   }
+  ], 
+  "nickname": "", 
+  "bdate": "10.7.1991", 
+  "screen_name": "id4911835", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "university": 56, 
+  "graduation": 2013, 
+  "last_seen": {
+   "platform": 4, 
+   "time": 1418552306
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Илья", 
+  "last_name": "Ястребов", 
+  "screen_name": "living_dead", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 2, 
+  "bdate": "23.11.1990", 
+  "hidden": 1, 
+  "nickname": "/о", 
+  "id": 631521, 
+  "last_seen": {
+   "platform": 4, 
+   "time": 1418556762
+  }
+ }, 
+ {
+  "first_name": "Gr", 
+  "last_name": "Vrbv", 
+  "screen_name": "grvrbv", 
+  "sex": 2, 
+  "bdate": "2.7.1990", 
+  "hidden": 1, 
+  "nickname": "", 
+  "id": 342115, 
+  "last_seen": {
+   "platform": 1, 
+   "time": 1418555943
+  }
+ }, 
+ {
+  "last_name": "Горелова", 
+  "university_name": "СПбПУ (Политех)", 
+  "sex": 1, 
+  "books": "", 
+  "relation": 0, 
+  "id": 336489, 
+  "home_town": "Санкт-Петербург", 
+  "universities": [
+   {
+    "country": 1, 
+    "id": 56, 
+    "name": "СПбПУ (Политех)", 
+    "city": 2
+   }
+  ], 
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Жанна", 
+  "relatives": [], 
+  "faculty_name": "", 
+  "occupation": {
+   "type": "university", 
+   "id": 56, 
+   "name": "СПбПУ (Политех)"
+  }, 
+  "interests": "", 
+  "faculty": 0, 
+  "schools": [], 
+  "nickname": "", 
+  "bdate": "12.12", 
+  "screen_name": "jannagorelova", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "university": 56, 
+  "graduation": 0, 
+  "last_seen": {
+   "platform": 4, 
+   "time": 1418547125
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Evgeny", 
+  "last_name": "Nikolaevich", 
+  "screen_name": "id2124394", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 2, 
+  "bdate": "5.12.1990", 
+  "hidden": 1, 
+  "nickname": "", 
+  "id": 2124394, 
+  "last_seen": {
+   "platform": 4, 
+   "time": 1418550449
+  }
+ }, 
+ {
+  "last_name": "Пискунов", 
+  "university_name": "СПбГЛТУ им. Кирова", 
+  "sex": 2, 
+  "books": "Властелин колец", 
+  "relation": 1, 
+  "id": 2548465, 
+  "home_town": "Санкт-Петербург", 
+  "universities": [
+   {
+    "city": 2, 
+    "name": "СПбГЛТА им. Кирова", 
+    "country": 1, 
+    "education_form": "Дневное отделение", 
+    "graduation": 2014, 
+    "chair_name": "Технологии лесохимических продуктов и биологически активных веществ", 
+    "faculty_name": "Химической технологии и биотехнологии (бывш. химико-технологический)", 
+    "faculty": 136, 
+    "chair": 5185, 
+    "education_status": "Абитуриент", 
+    "id": 40
+   }
+  ], 
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Алексей", 
+  "education_form": "Дневное отделение", 
+  "relatives": [], 
+  "faculty_name": "Химической технологии и биотехнологии (бывш. химико-технологический)", 
+  "occupation": {
+   "type": "university", 
+   "id": 40, 
+   "name": "СПбГЛТУ им. Кирова"
+  }, 
+  "interests": "общатся с друзьями", 
+  "faculty": 136, 
+  "schools": [
+   {
+    "city": 2, 
+    "name": "№ 554", 
+    "country": 1, 
+    "year_from": 1998, 
+    "year_graduated": 2008, 
+    "class": "г", 
+    "type_str": "Лицей", 
+    "year_to": 2008, 
+    "type": 2, 
+    "id": "19861", 
+    "speciality": "биолого-географический"
+   }
+  ], 
+  "education_status": "Абитуриент", 
+  "nickname": "", 
+  "bdate": "15.1.1991", 
+  "screen_name": "id2548465", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "university": 40, 
+  "graduation": 2014, 
+  "last_seen": {
+   "platform": 7, 
+   "time": 1263050524
+  }
+ }, 
+ {
+  "deactivated": "banned", 
+  "first_name": "Влад", 
+  "last_name": "Боровский", 
+  "id": 1271926, 
+  "sex": 2
+ }, 
+ {
+  "first_name": "Лина", 
+  "last_name": "Загорская", 
+  "screen_name": "linazagorckaya", 
+  "sex": 1, 
+  "bdate": "22.2", 
+  "nickname": "", 
+  "id": 3435772, 
+  "last_seen": {
+   "platform": 2, 
+   "time": 1418074672
+  }
+ }, 
+ {
+  "city": {
+   "id": 2, 
+   "title": "Санкт-Петербург"
+  }, 
+  "first_name": "Mr", 
+  "last_name": "Strike", 
+  "screen_name": "id2347221", 
+  "country": {
+   "id": 1, 
+   "title": "Россия"
+  }, 
+  "sex": 2, 
+  "bdate": "18.4", 
+  "hidden": 1, 
+  "nickname": "Lucky", 
+  "id": 2347221, 
+  "last_seen": {
+   "platform": 2, 
+   "time": 1418549753
+  }
+ }
+]
